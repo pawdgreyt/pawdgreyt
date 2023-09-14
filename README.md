@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Paolo Climaco </h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Paolo Climaco </h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
 <br/>
-<h3 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Connect with me 🤝 </h3>
+<h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
