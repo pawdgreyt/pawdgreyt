@@ -1,7 +1,4 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Paolo Climaco </h1>
-<h3 align="center">A Full Stack Web Developer</h3>
-
-<br/>
 <h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
